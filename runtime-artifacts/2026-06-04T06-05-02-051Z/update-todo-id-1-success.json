@@ -1,0 +1,10 @@
+{
+  "action": "update-todo-id-1-success",
+  "timestamp": "2026-06-04T06:05:03.403Z",
+  "payload": {
+    "id": 1,
+    "userId": 2,
+    "title": "Acsi provident adficio coniuratio laborum aetas vilitas.",
+    "completed": true
+  }
+}

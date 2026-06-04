@@ -1,0 +1,10 @@
+{
+  "action": "create-todo-success",
+  "timestamp": "2026-06-04T05:55:16.598Z",
+  "payload": {
+    "userId": 1,
+    "title": "Valetudo audax debeo tenax victoria cui ratione.",
+    "completed": true,
+    "id": 201
+  }
+}

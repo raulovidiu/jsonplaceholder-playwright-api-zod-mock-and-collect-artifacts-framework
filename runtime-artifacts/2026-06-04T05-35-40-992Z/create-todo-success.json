@@ -1,0 +1,10 @@
+{
+  "action": "create-todo-success",
+  "timestamp": "2026-06-04T05:35:41.885Z",
+  "payload": {
+    "userId": 8,
+    "title": "Decor expedita illo.",
+    "completed": false,
+    "id": 201
+  }
+}

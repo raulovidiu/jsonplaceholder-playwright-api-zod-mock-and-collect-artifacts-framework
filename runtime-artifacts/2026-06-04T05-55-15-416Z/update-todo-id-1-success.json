@@ -1,0 +1,10 @@
+{
+  "action": "update-todo-id-1-success",
+  "timestamp": "2026-06-04T05:55:16.821Z",
+  "payload": {
+    "id": 1,
+    "userId": 9,
+    "title": "Angustus eius compello.",
+    "completed": true
+  }
+}

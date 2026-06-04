@@ -1,0 +1,10 @@
+{
+  "action": "get-single-todo-id-1",
+  "timestamp": "2026-06-04T05:55:16.339Z",
+  "payload": {
+    "userId": 1,
+    "id": 1,
+    "title": "delectus aut autem",
+    "completed": false
+  }
+}

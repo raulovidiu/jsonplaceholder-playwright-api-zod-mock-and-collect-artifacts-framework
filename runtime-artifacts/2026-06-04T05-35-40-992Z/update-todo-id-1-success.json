@@ -1,0 +1,10 @@
+{
+  "action": "update-todo-id-1-success",
+  "timestamp": "2026-06-04T05:35:42.057Z",
+  "payload": {
+    "id": 1,
+    "userId": 3,
+    "title": "Texo arceo velum cariosus aduro nostrum textus.",
+    "completed": true
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "action": "create-todo-success",
+  "timestamp": "2026-06-04T06:05:03.230Z",
+  "payload": {
+    "userId": 5,
+    "title": "Aeger ceno impedit.",
+    "completed": false,
+    "id": 201
+  }
+}
